@@ -8,4 +8,4 @@ lda_model**
 *.state
 *.pickle
 *.p
-./models/**
+models/
