@@ -1,0 +1,11 @@
+*.zip
+*.pkl
+*_processed.csv
+*.npy
+*.pkl.*
+lda_model**
+*.id2word
+*.state
+*.pickle
+*.p
+./models/**
